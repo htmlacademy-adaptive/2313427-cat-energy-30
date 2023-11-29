@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
-* Студент: [Алексей Умнов](https://up.htmlacademy.ru/adaptive/30/user/2313427).
-* Наставник: `Неизвестно`.
+* Студент: [Алексей Умнов](https://up.htmlacademy.ru/adaptive/30/user/2313427)
+* Наставник: [Евгения Подопригора](https://htmlacademy.ru/profile/id2387199)
 
 ---
 
